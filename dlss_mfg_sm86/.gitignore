@@ -1,0 +1,9 @@
+# Build output and local workspaces
+build/
+dist/
+__pycache__/
+backups/
+logs/
+research/
+# NVIDIA Streamline runtime binaries stay local; only public headers are committed.
+vendor/streamline/bin/

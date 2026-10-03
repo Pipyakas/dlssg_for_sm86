@@ -1,0 +1,12 @@
+*.md text eol=lf
+*.c text eol=lf
+*.cpp text eol=lf
+*.h text eol=lf
+*.py text eol=lf
+*.ps1 text eol=lf
+*.ini text eol=crlf
+*.cmd text eol=crlf
+*.dll binary
+*.exe binary
+.gitignore text eol=lf
+.gitattributes text eol=lf
